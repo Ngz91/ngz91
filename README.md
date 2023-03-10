@@ -25,6 +25,9 @@
 <li>
 <b>Page:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
 </li>
+<li>
+<b>Dotfiles & Guide:</b> https://github.com/Ngz91/dotfiles/
+</li>
 <br><br><br>
 </div>
 <div>
