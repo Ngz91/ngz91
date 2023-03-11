@@ -30,7 +30,7 @@
   </li>
   <br><br><br>
 </div>
-<br><br>
+<br><br><br><br>
 <div>
   <h2 align="center">Languages & Technologies</h2>
 <br>
