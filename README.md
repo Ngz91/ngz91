@@ -35,6 +35,12 @@
   <h2 align="center">Languages & Technologies</h2>
 <br>
 </div>
+
+<div align="center">
+<img src="https://media.tenor.com/ZI3ZBdd5okYAAAAC/virtus-pro-virtus-pro-gaming.gif"/>
+<br><br>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
