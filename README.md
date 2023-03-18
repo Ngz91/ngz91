@@ -32,7 +32,7 @@
 </div>
 <br><br><br><br><br>
 <div>
-  <h2 align="center">Languages & Technologies</h2>
+  <h2 align="center">🍙 Languages & Technologies 🍙</h2>
 <br>
 </div>
 
