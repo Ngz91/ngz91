@@ -14,10 +14,10 @@
   <li>
   <b>Name:</b> Nevio</li>
   <li>
-  <b>Likes:</b> Programming, reading, music, games, books
+  <b>Likes:</b> Programming, Reading, Music, Videogames, Books
   </li>
   <li>
-  <b>Hobbys:</b> Guitar 🎸, competitive programming 💻, ricing 🍙.
+  <b>Hobbys:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
   </li>
   <li>
   <b>Page:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
