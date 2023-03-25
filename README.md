@@ -17,10 +17,10 @@
   <b>Likes:</b> Programming, Reading, Music, Videogames, Books
   </li>
   <li>
-  <b>Hobbys:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
+  <b>Hobbies:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
   </li>
   <li>
-  <b>Page:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
+  <b>Portfolio:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
   </li>
   <li>
   <b>Dotfiles & Guide:</b> https://github.com/Ngz91/dotfiles/
