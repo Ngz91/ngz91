@@ -12,9 +12,9 @@
     <img src="https://media.tenor.com/ffh6cxsnSYMAAAAd/persona-aesthetic-anime.gif" align="right" width="200" height="300">
   </div>
   <li>
-  <b>Name:</b> Nevio</li>
+  <b>Name:</b> Nevio </li>
   <li>
-  <b>Likes:</b> Programming, Reading, Music, Videogames, Books
+  <b>Likes:</b> Programming, Reading, Music, Videogames, Books.
   </li>
   <li>
   <b>Hobbies:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
