@@ -26,7 +26,7 @@
   <b>Dotfiles & Guide:</b> https://github.com/Ngz91/dotfiles/
   </li>
   <li>
-  <b>Fun fact:</b> CSGO Enyojer 🚬 (Soon CS2)
+  <b>Random fact:</b> CSGO Enyojer 🚬 (Soon CS2)
   </li>
   <br><br><br>
 </div>
