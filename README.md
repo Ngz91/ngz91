@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ### :shinto_shrine: <b>Ngz91 profile page</b> :shinto_shrine:
+  ### <h2>:shinto_shrine: <b>Ngz91 profile page</b> :shinto_shrine:</h2>
 
 <img src="https://64.media.tumblr.com/b2db124c402f36f256fdf0f0a21820d4/9183c63c3a6737f8-31/s500x750/b3da5ed6cecab8d68113fde5b994bab5edd82470.gifv"/>
 
@@ -32,7 +32,7 @@
 </div>
 <br><br><br><br><br>
 <div>
-  <h2 align="center">🍙 Languages & Technologies 🍙</h2>
+  <h3 align="center">🍙 Languages & Technologies 🍙</h3>
 <br>
 </div>
 
