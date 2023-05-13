@@ -13,8 +13,13 @@
   </div>
   <li>
   <b>Name:</b> Nevio </li>
+  </li>
   <li>
-  <b>Likes:</b> Programming, Reading, Music, Videogames, Books.
+  BSc in Industrial Engineering, Software Developer, Back-End Developer.
+  </li>
+  <li>
+  Currently learning .NET development, FastAPI and C++.
+  </li>
   </li>
   <li>
   <b>Hobbies:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
@@ -30,7 +35,7 @@
   </li>
   <br><br><br>
 </div>
-<br><br><br><br><br>
+<br><br><br><br>
 <div>
   <h3 align="center">🍙 Languages & Technologies 🍙</h3>
 <br>
