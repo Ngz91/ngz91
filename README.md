@@ -12,7 +12,7 @@
     <img src="https://media.tenor.com/ffh6cxsnSYMAAAAd/persona-aesthetic-anime.gif" align="right" width="200" height="300">
   </div>
   <li>
-  <b>Name:</b> Nevio </li>
+  <b>Name:</b> Nevio (蟻) </li>
   </li>
   <li>
   BSc in Industrial Engineering, Software Developer, Back-End Developer.
