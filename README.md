@@ -18,7 +18,7 @@
   BSc in Industrial Engineering, Software Developer, Back-End Developer.
   </li>
   <li>
-  Currently learning .NET development, FastAPI and C++.
+  Currently learning .NET development, Langchain and C++.
   </li>
   </li>
   <li>
@@ -32,6 +32,9 @@
   </li>
   <li>
   <b>Random fact:</b> CSGO Enyojer 🚬 (Soon CS2)
+  </li>
+  <li>
+  <b>Working on:</b> LLM code assistant, CS Items Api and MAUI application.
   </li>
   <br><br><br>
 </div>
