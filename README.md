@@ -22,7 +22,7 @@
   </li>
   </li>
   <li>
-  <b>Hobbies:</b> Guitar 🎸, Competitive programming 💻, Ricing 🍙.
+  <b>Hobbies:</b> Guitar 🎸, Programming 💻, Ricing 🍙, Reading 📖.
   </li>
   <li>
   <b>Portfolio:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
