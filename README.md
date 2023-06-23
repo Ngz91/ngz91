@@ -31,6 +31,9 @@
   <b>Dotfiles & Guide:</b> https://github.com/Ngz91/dotfiles/
   </li>
   <li>
+  <b>Medium:</b> https://medium.com/@neviogomez91
+  </li>
+  <li>
   <b>Random fact:</b> CSGO Enyojer 🚬 (Soon CS2)
   </li>
   <li>
@@ -38,7 +41,7 @@
   </li>
   <br><br><br>
 </div>
-<br><br><br><br>
+<br><br><br>
 <div>
   <h3 align="center">🍙 Languages & Technologies 🍙</h3>
 <br>
