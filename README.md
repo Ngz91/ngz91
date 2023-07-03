@@ -37,7 +37,7 @@
   <b>Random fact:</b> CSGO Enyojer 🚬 (Soon CS2)
   </li>
   <li>
-  <b>Working on:</b> LLM code assistant, CS Items MAUI App & <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application.
+  <b>Working on:</b> LLM code assistant, CS Capsules & Stickers MAUI App and <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application.
   </li>
   <br><br><br>
 </div>
