@@ -15,10 +15,10 @@
   <b>Name:</b> Nevio (蟻) </li>
   </li>
   <li>
-  BSc in Industrial Engineering, Software Developer, Back-End Developer.
+  BSc. in Industrial Engineering, Software Developer, Backend Developer.
   </li>
   <li>
-  Currently learning .NET development, Langchain and C++.
+  Currently learning: .NET development, Langchain and C++.
   </li>
   </li>
   <li>
