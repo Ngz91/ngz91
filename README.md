@@ -18,7 +18,7 @@
   BSc. in Industrial Engineering, Software Developer, Backend Developer.
   </li>
   <li>
-  <b>Currently learning:</b> .NET development, Langchain and C++.
+  <b>Currently learning:</b> ASP.NET, .NET MAUI, Langchain and C++.
   </li>
   </li>
   <li>
