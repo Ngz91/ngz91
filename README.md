@@ -34,7 +34,7 @@
   <b>Medium:</b> https://medium.com/@neviogomez91
   </li>
   <li>
-  <b>Random fact:</b> CSGO Enyojer 🚬 (Soon CS2)
+  <b>Random fact:</b> CS2 Enyojer 🚬
   </li>
   <li>
   <b>Working on:</b> LLM code assistant, CS Capsules & Stickers MAUI App and <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application.
