@@ -18,7 +18,7 @@
   BSc. in Industrial Engineering, Software Developer, Backend Developer.
   </li>
   <li>
-  <b>Currently learning:</b> ASP.NET, .NET MAUI, Rust and C++.
+  <b>Currently learning:</b> ASP.NET, Rust, Mojo and C++.
   </li>
   </li>
   <li>
