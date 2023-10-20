@@ -37,7 +37,7 @@
   <b>Random fact:</b> CS2 Enyojer 🚬
   </li>
   <li>
-  <b>Working on:</b> LLM code assistant, CS Capsules & Stickers App, <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application and CLI Rust tool.
+  <b>Working on:</b> LLM code assistant, CS Capsules & Stickers App, <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application and Cli application.
   </li>
   <br><br><br>
 </div>
