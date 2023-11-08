@@ -25,7 +25,7 @@
   <b>Hobbies:</b> Guitar 🎸, Programming 💻, Ricing 🍙, Reading 📖.
   </li>
   <li>
-  <b>Portfolio:</b> https://ngz91.github.io/NgzPortfolio/ (A bit outdated)
+  <b>Portfolio:</b> https://ngz91.github.io/NgzPortfolio/ (Outdated)
   </li>
   <li>
   <b>Dotfiles & Guide:</b> https://github.com/Ngz91/dotfiles/
@@ -37,7 +37,7 @@
   <b>Random fact:</b> CS2 Enyojer 🚬
   </li>
   <li>
-  <b>Working on:</b> LLM code assistant, CS Capsules & Stickers App, <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application and CLI application.
+  <b>Working on:</b> LLM code assistant, CS Capsules & Stickers App, <br>&emsp;&nbsp;&nbsp;Pathfinding SFML application and Rust API client terminal App.
   </li>
   <br><br><br>
 </div>
