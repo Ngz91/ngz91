@@ -15,7 +15,7 @@
   <b>Name:</b> Nevio (蟻) </li>
   </li>
   <li>
-  BSc. in Industrial Engineering, Software Developer, Backend Developer.
+  BSc. in Industrial Engineering, Software Developer.
   </li>
   <li>
   <b>Currently learning:</b> ASP.NET, Rust, Mojo and C++.
