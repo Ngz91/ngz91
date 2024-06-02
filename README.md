@@ -18,7 +18,7 @@
   BSc. in Industrial Engineering, Software Developer.
   </li>
   <li>
-  <b>Currently learning:</b> ASP.NET, Rust, Mojo and C++.
+  <b>Currently learning:</b> Golang, Rust, and C++.
   </li>
   </li>
   <li>
