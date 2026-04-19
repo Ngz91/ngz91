@@ -3,7 +3,7 @@
 
   ### <h2>:shinto_shrine: <b>Ngz91 profile page</b> :shinto_shrine:</h2>
 
-<img src="https://pa1.aminoapps.com/7107/6d757fc85c9186049d81f00011ec88a49e33f450r1-500-258_hq.gif" />
+<img src="https://i.imgur.com/6MkiFJ7.gif" />
 
 </div>
 <div>
